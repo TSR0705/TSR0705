@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **React, Tailwind , GSAP & Advanced UI animations, Firebase , JavaScript , css , Html**
 
-- ⚡ **Motto:** Prototype in hours, iterate forever. I treat AI like my co-founder.
+- ⚡ **Motto:** "Serving the nation with every line of code."
 - ⚡ Fun fact **I prototype faster than I sleep — and I treat AI like my co-founder. 😄**
 ---
 
