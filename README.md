@@ -1,10 +1,10 @@
+
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
+![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Tanmay+Singh!+%F0%9F%91%8B)
 <!-- PROFILE VIEWS & TROPHIES -->
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsr0705" alt="tsr0705" /></a> </p>
-
 ---
 
- # Hi 👋, I'm **TANMAY SINGH**  
 ### 🚀 Passionate Frontend & Full-Stack Developer | Cloud Computing Student | AI & Blockchain Explorer
 
 <p align="center">
@@ -85,28 +85,10 @@
 ## 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsr0705&show_icons=true&locale=en&layout=compact" alt="tsr0705" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsr0705&show_icons=true&locale=en" alt="tsr0705" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsr0705&" alt="tsr0705" /></p>
 
 
 
 ---
 
-## 📅 Timeline (Mermaid)
-
-<details>
-<summary>View my development timeline</summary>
-
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       Tanmay’s Dev Journey
-    section Projects
-    Samvidhan Setu       :done,  sam, 2025-04-01, 90d
-    IndiSure             :active, indi,2025-04-15, 60d
-    MargSetu             :crit, mrg, 2025-06-01, 30d
-    section Learning
-    Next.js 14 & RAG     :done,  l1, 2025-03-01, 45d
-    LLM Fine-Tuning      :active,  l2, 2025-04-15, 60d
