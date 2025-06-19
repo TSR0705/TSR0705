@@ -26,7 +26,7 @@
 
 - 🤝 I’m looking for help with **Project Name: IndiSure – Need help with blockchain integration And Product Designing**
 
-- 💬 Ask me about ** Html , Css , Javascript , React , Tailwind , GSAP & Advanced UI animations, Firebase **
+- 💬 **Ask me about:**  Html , Css , Javascript , React , Tailwind , GSAP & Advanced UI animations, Firebase 
 
 - ⚡ **Motto:** "Serving the nation with every line of code."
   
