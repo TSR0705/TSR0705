@@ -119,16 +119,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsr0705&show_icons=true&locale=en&layout=compact" alt="tsr0705" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsr0705&show_icons=true&locale=en" alt="tsr0705" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsr0705&" alt="tsr0705" /></p>
+## 📊 GitHub Stats And Languages Used
 
 
-
+<img  src="https://github-readme-stats.vercel.app/api?username=tsr0705&theme=dark&show_icons=true&locale=en" alt="TSR0705" />
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR0705&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR0705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img align="top-right" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR0705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
 ---
