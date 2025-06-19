@@ -3,12 +3,11 @@
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Tanmay+Singh!+%F0%9F%91%8B)
 <!-- PROFILE VIEWS & TROPHIES -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsr0705" alt="tsr0705" /></a> </p>
----
 
-### 🚀 Passionate Frontend & Full-Stack Developer | Cloud Computing Student | AI & Blockchain Explorer
+
+### 🚀 Passionate Frontend & Full-Stack Developer | Cloud Computing Student 
 
 <p align="center">
-  <a href="https://github.com/tsr0705"><img src="https://img.shields.io/badge/GitHub-TSR0705-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/tanmay-singh-28395b345/"><img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/tanmaysinghra18"><img src="https://img.shields.io/badge/Twitter-@tanmaysinghra18-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="mailto:tanmaysingh8246@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaysingh8246@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
@@ -21,17 +20,16 @@
 
 - 🔭 I’m currently working on [Project Name: Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)
 
-- 🌱 I’m currently learning **Next.js 14 with App Router LangChain, RAG, and LLM Fine-tuning Firebase Auth & Supabase Web3 Smart Contracts for certification**
+- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)** and will be diving into **DSA in Java** next.
 
 - 👯 I’m looking to collaborate on [Project Name: Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)
 
-- 🤝 I’m looking for help with **Project Name: IndiSure – Need help with blockchain integration and backend scalability**
+- 🤝 I’m looking for help with **Project Name: IndiSure – Need help with blockchain integration And Product Designing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TSR0705](https://github.com/TSR0705)
-
-- 💬 Ask me about **React, Tailwind , GSAP & Advanced UI animations, Firebase , JavaScript , css , Html**
+- 💬 Ask me about ** Html , Css , Javascript , React , Tailwind , GSAP & Advanced UI animations, Firebase **
 
 - ⚡ **Motto:** "Serving the nation with every line of code."
+  
 - ⚡ Fun fact **I prototype faster than I sleep — and I treat AI like my co-founder. 😄**
 ---
 
@@ -41,44 +39,83 @@
 <summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Virtual Courts</summary>
 
 - 🔗 **Repo:** https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU  
-- 🛠 **Tech:** React · Next.js · FastAPI · LangChain · MongoDB Atlas · TailwindCSS  
+- 🛠 **Tech:**  React.js | TailwindCSS | Framer Motion | Lottie | Gemini |Jitsi | Material UI
 - ⭐ **Highlights:** AI-driven case summarization, real-time courtroom UI, predictive outcome engine
 </details>
 
-<details>
-<summary><strong>IndiSure</strong> – Smart Insurance with AI & Blockchain</summary>
 
-- 🔗 **Repo:** https://github.com/TSR0705/INDISURE  
-- 🛠 **Tech:** React Native · Node.js · Solidity (in progress) · Firebase · IPFS  
-- ⭐ **Highlights:** ML-powered fraud detection, Ethereum smart-contract claims, real-time dashboard
+<details> <summary><strong>QuizArena</strong> – Futuristic AI Quiz Platform</summary>
+
+- 🔗 **Repo:**  https://github.com/TSR0705/Quiz-Arena 
+- 🛠 **Tech:**  React.js | Vite | TailwindCSS | Framer Motion | React Router | GSAP | Three.js | @react-three/fiber 
+- ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time score feedback, interactive user experience
 </details>
 
 <details>
-<summary><strong>MargSetu</strong> – Urban IoT & Data Analytics</summary>
+<summary><strong>IndiSure</strong> – AI-Driven Counterfeit Drug Detection</summary>
+
+- 🔗 **Repo:**  *(coming soon…)* 
+- 🛠 **Tech:**  *(coming soon…)* 
+- ⭐ **Highlights:** AI-powered counterfeit drug detection, blockchain-based supply chain integrity, smart methods to eliminate counterfeit replacement steps
+</details>
+
+<details>
+<summary><strong>MargSetu</strong> –  Smart Pitching & Investor Matchmaking</summary>
 
 - 🔗 **Repo:** *(coming soon…)*  
-- 🛠 **Tech:** IoT · Cloud Functions · GIS · Data Analytics  
-- ⭐ **Highlights:** Traffic optimization via sensors, safety-alert heatmaps for planners
+- 🛠 **Tech:**  Vite | React.js | TailwindCSS | Framer Motion | Responsive Design | Chart.js | Jitsi | Material UI
+- ⭐ **Highlights:** Live pitch deck interface, smart profiles for investors and pitchers, real-time matchmaking UX
 </details>
 
 ---
 
+
+
+
 ## 📄 Experience Snapshot
 
-| Role                              | Organization / Project        | Duration        |
-|-----------------------------------|-------------------------------|-----------------|
-| Founder & Lead Dev                | Samvidhan Setu                | Apr 2025 – Now  |
-| Core Dev                          | IndiSure                      | Apr 2025 – Now  |
-| Frontend Lead                     | Multiple Hackathon & Uni Apps | 2024 – 2025     |
-| Cloud Computing Student           | B.Tech CSE, Your University   | 2024 – 2028  |
+| Role                              | Organization / Project                      | Duration           |
+|-----------------------------------|---------------------------------------------|--------------------|
+| 🧠 Founder & Lead Dev             | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – GitHub Hackathon Winner (Best Freshers Team) | Apr 2025 – Present |
+| 🤝 Fullstack Collaborator (R&D)   | [IndiSure](https://github.com/TSR0705/INDISURE) – AI + Blockchain Drug Detection | Jan 2025 – Present |
+| 🎯 Frontend Developer             | MargSetu – Top 10 out of 3000+ teams @ CodeNex DayZero |  2025 – Jun 2025 |
+| ✨ Designer & Developer           | [QuizArena](https://github.com/TSR0705/QuizArena) – Futuristic Quiz App | Apr 2025 – May 2025 |
+| 🎓 B.Tech CSE (9+ CGPA)           | SRMIST-KTR – Cloud Computing Specialization | 2024 – 2028         |
+
 
 ---
 
 ## 🌐 Skills & Tools
 
-<p align="center">
- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-</p>
+
+## My Skills
+
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+
+
 
 ---
 
@@ -88,6 +125,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsr0705&show_icons=true&locale=en" alt="tsr0705" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tsr0705&" alt="tsr0705" /></p>
 
+
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR0705&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR0705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 
 ---
