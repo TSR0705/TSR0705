@@ -51,6 +51,22 @@
 - ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time score feedback, interactive user experience
 </details>
 
+<details> 
+<summary><strong>Portfolio</strong> –  Personal Brand & Interactive Showcase</summary>
+
+- 🔗 **Repo:**  https://github.com/TSR0705/MY-PORTFOLIO
+- 🛠 **Tech:** React.js | Next.js | TailwindCSS | Framer Motion | Responsive Design | Modern UI Trends  
+- ⭐ **Highlights:** Clean futuristic design, Animated Hero Section, Modular components, Interactive project highlights, Inspired by top modern UI trends, Scalable and easily extensible structure  
+</details>
+
+<details>
+<summary><strong>MargSetu</strong> –  Smart Pitching & Investor Matchmaking</summary>
+
+- 🔗 **Repo:** https://github.com/TSR0705/Marg-Setu-Frontend-  
+- 🛠 **Tech:**  Vite | React.js | TailwindCSS | Framer Motion | Responsive Design | Chart.js | Jitsi | Material UI
+- ⭐ **Highlights:** Live pitch deck interface, smart profiles for investors and pitchers, real-time matchmaking UX
+</details>
+
 <details>
 <summary><strong>IndiSure</strong> – AI-Driven Counterfeit Drug Detection</summary>
 
@@ -59,29 +75,18 @@
 - ⭐ **Highlights:** AI-powered counterfeit drug detection, blockchain-based supply chain integrity, smart methods to eliminate counterfeit replacement steps
 </details>
 
-<details>
-<summary><strong>MargSetu</strong> –  Smart Pitching & Investor Matchmaking</summary>
-
-- 🔗 **Repo:** *(coming soon…)*  
-- 🛠 **Tech:**  Vite | React.js | TailwindCSS | Framer Motion | Responsive Design | Chart.js | Jitsi | Material UI
-- ⭐ **Highlights:** Live pitch deck interface, smart profiles for investors and pitchers, real-time matchmaking UX
-</details>
-
 ---
-
-
-
 
 ## 📄 Experience Snapshot
 
 | Role                              | Organization / Project                      | Duration           |
 |-----------------------------------|---------------------------------------------|--------------------|
-| 🧠 Founder & Lead Dev             | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – GitHub Hackathon Winner (Best Freshers Team) | Apr 2025 – Present |
-| 🤝 Fullstack Collaborator (R&D)   | [IndiSure](https://github.com/TSR0705/INDISURE) – AI + Blockchain Drug Detection | Jan 2025 – Present |
-| 🎯 Frontend Developer             | MargSetu – Top 10 out of 3000+ teams @ CodeNex DayZero |  2025 – Jun 2025 |
-| ✨ Designer & Developer           | [QuizArena](https://github.com/TSR0705/QuizArena) – Futuristic Quiz App | Apr 2025 – May 2025 |
-| 🎓 B.Tech CSE (9+ CGPA)           | SRMIST-KTR – Cloud Computing Specialization | 2024 – 2028         |
-
+| 🧠 Founder & Lead Dev             | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – GitHub Hackathon Winner (Best Freshers Team) | Feb 2025 – Present |
+| 🤝 Fullstack Collaborator (R&D)   | IndiSure – AI + Blockchain Drug Detection | Jan 2025 – Present |
+| 🎯 Frontend Developer             | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – Top 10 out of 3000+ teams @ CodeNex DayZero | Mar 2025 – present |
+| ✨ Designer & Developer           | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic Quiz App | Apr 2025 – May 2025 |
+| 🌐 Portfolio Creator              | [Portfolio](https://github.com/TSR0705/MY-PORTFOLIO) – Interactive, Scalable Personal Brand Website | june 2025 – Present |
+| 🎓 B.Tech CSE (9.26+ CGPA)           | SRMIST-KTR – Cloud Computing Specialization | 2024 – 2028         |
 
 ---
 
