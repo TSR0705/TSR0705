@@ -43,8 +43,7 @@
 
 - ⚡ **Motto:** _"Serving the nation with every line of code."_
 
-- 🤖 **Fun Fact:** I treat AI like my co-founder and GitHub like my diary. ** 😄
-
+- 🤖 **Fun Fact:** I treat AI like my co-founder and **GitHub like my diary.** 😄
 ---
 
 ## 🚀 Featured Projects
