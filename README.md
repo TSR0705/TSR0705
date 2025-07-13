@@ -2,7 +2,8 @@
 ![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
 ![Hey typed effect](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hey+there%2C+I'm+Tanmay+Singh!+%F0%9F%91%8B)
 <!-- PROFILE VIEWS & TROPHIES -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsr0705" alt="tsr0705" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TSR0705&theme=algolia&no-bg=true&margin-w=8"> </p>
+
 
 
 ### 🚀 Passionate Frontend & Full-Stack Developer | Cloud Computing Student 
@@ -36,62 +37,93 @@
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Virtual Courts</summary>
+<summary><strong>Agentic AI Project</strong> – Real-Time Conversational Agent System</summary>
 
-- 🔗 **Repo:** https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU  
-- 🛠 **Tech:**  React.js | TailwindCSS | Framer Motion | Lottie | Gemini |Jitsi | Material UI
-- ⭐ **Highlights:** AI-driven case summarization, real-time courtroom UI, predictive outcome engine
-</details>
-
-
-<details> <summary><strong>QuizArena</strong> – Futuristic AI Quiz Platform</summary>
-
-- 🔗 **Repo:**  https://github.com/TSR0705/Quiz-Arena 
-- 🛠 **Tech:**  React.js | Vite | TailwindCSS | Framer Motion | React Router | GSAP | Three.js | @react-three/fiber 
-- ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time score feedback, interactive user experience
-</details>
-
-<details> 
-<summary><strong>Portfolio</strong> –  Personal Brand & Interactive Showcase</summary>
-
-- 🔗 **Repo:**  https://github.com/TSR0705/MY-PORTFOLIO
-- 🛠 **Tech:** React.js | Next.js | TailwindCSS | Framer Motion | Responsive Design | Modern UI Trends  
-- ⭐ **Highlights:** Clean futuristic design, Animated Hero Section, Modular components, Interactive project highlights, Inspired by top modern UI trends, Scalable and easily extensible structure  
+- 🔗 **Repo:** [AGENTIC-AI-PROJECT](https://github.com/TSR0705/AGENTIC-AI-PROJECT)  
+- 🛠 **Tech:** Node.js | Express | Whisper | OpenAI API | Socket.IO *(expanding…)*  
+- ⭐ **Highlights:** Passive agentic AI listener that responds to human & AI messages on trigger (e.g., `@what`)
 </details>
 
 <details>
-<summary><strong>MargSetu</strong> –  Smart Pitching & Investor Matchmaking</summary>
+<summary><strong>Backend Concepts</strong> – Node.js Backend Learning Series</summary>
 
-- 🔗 **Repo:** https://github.com/TSR0705/Marg-Setu-Frontend-  
-- 🛠 **Tech:**  Vite | React.js | TailwindCSS | Framer Motion | Responsive Design | Chart.js | Jitsi | Material UI
-- ⭐ **Highlights:** Live pitch deck interface, smart profiles for investors and pitchers, real-time matchmaking UX
+- 🔗 **Repo:** [BACKEND-CONCEPTS](https://github.com/TSR0705/BACKEND-CONCEPTS)  
+- 🛠 **Tech:** Node.js | Express.js | MongoDB | JWT | Multer | Nodemailer  
+- ⭐ **Highlights:**  
+  • 10+ real-world backend modules: REST API design, file uploads, mailing, error handling, etc.  
+  • 💼 Includes advanced **Role-Based Authentication System** with:
+    - Role-protected routes (Admin/User)
+    - JWT token handling & middleware
+    - Full **OTP-based SignUp/Forgot/Reset Password** flow
+</details>
+
+<details>
+<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Virtual Courts</summary>
+
+- 🔗 **Repo:** [INNOVERSE-SAMVIDHAN-SETU](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU)  
+- 🛠 **Tech:** React.js | TailwindCSS | Framer Motion | Lottie | Gemini API | Jitsi | Material UI  
+- ⭐ **Highlights:** AI-driven case summarization, real-time courtroom UI, predictive outcome engine
+</details>
+
+<details>
+<summary><strong>Chess Game</strong> – Realtime Multiplayer Chess in the Browser</summary>
+
+- 🔗 **Repo:** [CHESS-GAME](https://github.com/TSR0705/CHESS-GAME)  
+- 🛠 **Tech:** Node.js | Express | Socket.IO | Chess.js | EJS | Vanilla JS | Custom CSS  
+- ⭐ **Highlights:** Realtime gameplay, drag-and-drop UI, board flipping, spectators, lobby system
+</details>
+
+<details>
+<summary><strong>QuizArena</strong> – Futuristic AI Quiz Platform</summary>
+
+- 🔗 **Repo:** [Quiz-Arena](https://github.com/TSR0705/Quiz-Arena)  
+- 🛠 **Tech:** React.js | Vite | TailwindCSS | Framer Motion | GSAP | React Router | Three.js | @react-three/fiber  
+- ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time scoring, interactive UI
+</details>
+
+<details>
+<summary><strong>Portfolio</strong> – Personal Brand & Interactive Showcase</summary>
+
+- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY-PORTFOLIO)  
+- 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion | Modular UI  
+- ⭐ **Highlights:** Scalable design, Animated hero, Modern UI trends, Responsive, Easily extensible
+</details>
+
+<details>
+<summary><strong>MargSetu</strong> – Smart Pitching & Investor Matchmaking</summary>
+
+- 🔗 **Repo:** [Marg-Setu-Frontend-](https://github.com/TSR0705/Marg-Setu-Frontend-)  
+- 🛠 **Tech:** Vite | React.js | TailwindCSS | Framer Motion | Jitsi | Chart.js | Material UI  
+- ⭐ **Highlights:** Smart profiles, real-time pitching UX, investor matching, live presentations
 </details>
 
 <details>
 <summary><strong>IndiSure</strong> – AI-Driven Counterfeit Drug Detection</summary>
 
-- 🔗 **Repo:**  *(coming soon…)* 
-- 🛠 **Tech:**  *(coming soon…)* 
-- ⭐ **Highlights:** AI-powered counterfeit drug detection, blockchain-based supply chain integrity, smart methods to eliminate counterfeit replacement steps
+- 🔗 **Repo:** *(Coming soon…)*  
+- 🛠 **Tech:** *(Coming soon…)*  
+- ⭐ **Highlights:** AI for drug validation, blockchain for supply chain integrity, anti-counterfeit pipeline
 </details>
 
 ---
 
 ## 📄 Experience Snapshot
 
-| Role                              | Organization / Project                      | Duration           |
-|-----------------------------------|---------------------------------------------|--------------------|
-| 🧠 Founder & Lead Dev             | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – GitHub Hackathon Winner (Best Freshers Team) | Feb 2025 – Present |
-| 🤝 Fullstack Collaborator (R&D)   | IndiSure – AI + Blockchain Drug Detection | Jan 2025 – Present |
-| 🎯 Frontend Developer             | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – Top 10 out of 3000+ teams @ CodeNex DayZero | Mar 2025 – present |
-| ✨ Designer & Developer           | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic Quiz App | Apr 2025 – May 2025 |
-| 🌐 Portfolio Creator              | [Portfolio](https://github.com/TSR0705/MY-PORTFOLIO) – Interactive, Scalable Personal Brand Website | june 2025 – Present |
-| 🎓 B.Tech CSE (9.26+ CGPA)           | SRMIST-KTR – Cloud Computing Specialization | 2024 – 2028         |
+| Role                            | Organization / Project                                                                                          | Duration            |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|
+| 🧠 **Founder & Lead Dev**        | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – 🏆 GitHub Hackathon Winner (Best Freshers Team) | Feb 2025 – Present  |
+| 🤝 **Fullstack Engineer (R&D)** | IndiSure – AI + Blockchain powered drug counterfeit detection                                                   | Jan 2025 – Present  |
+| 🎯 **Frontend Engineer**        | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – 🏅 Top 10 / 3000+ teams @ CodeNex DayZero                  | Mar 2025 – Present  |
+| ✨ **UI/UX Designer & Dev**     | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic multiplayer quiz platform                        | Apr 2025 – May 2025 |
+| 🌐 **Portfolio Architect**      | [Portfolio](https://github.com/TSR0705/MY-PORTFOLIO) – Interactive Scalable personal brand site                  | Jun 2025 – Present  |
+| 🧪 **Backend Educator & Creator** | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Full-stack Node.js learning series with 10 real-world backend modules | Jun 2025 – Jul 2025 |
+| 🤖 **Agentic AI Researcher**    | [Agentic AI Project](https://github.com/TSR0705/AGENTIC-AI-PROJECT) – Experimental real-time conversational AI agent system | 3 Jul 2025 – Present  |
+| ♟️ **Realtime Game Dev**        | [Chess Game](https://github.com/TSR0705/CHESS-GAME) – Multiplayer chess app using Socket.IO, EJS, and chess.js   | 28 Jun 2025 – Jul 2025 |
+| 🎓 **B.Tech CSE (9.26+ CGPA)**  | SRMIST Kattankulathur – Specialization: Cloud Computing                                                         | 2024 – 2028         |
 
 ---
 
-## 🌐 Skills & Tools
-
+# 🌐 Skills & Tools
 
 ## My Skills
 
@@ -105,31 +137,33 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff">
+<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff">
+<!-- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">  -->
+<!-- <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">  -->
+<!-- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  -->
 <!-- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> -->
 <!-- <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> -->
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
 
 ---
 
 ## 📊 GitHub Stats And Languages Used
 
-
+<div>
 <img  src="https://github-readme-stats.vercel.app/api?username=tsr0705&theme=dark&show_icons=true&locale=en" alt="TSR0705" />
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR0705&theme=dark"></td><td width="50%" align="center">
 <img align="top-right" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=TSR0705&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
+</div>
 
 ---
 
