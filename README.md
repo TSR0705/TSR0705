@@ -19,19 +19,32 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on [Project Name: Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)
+- 🔭 I’m currently working on [**Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform**](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)  
+  ⮕ Built a complete **OTP-verified, role-based authentication system** with JWT and role-based routes this summer.
 
-- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)** and will be diving into **DSA in Java** next.
+- 🧠 I’m researching & building [**IndiSure**](https://github.com/TSR0705) – AI + Blockchain based counterfeit drug detection solution.  
+  ⮕ Looking for **blockchain experts** and **product designers/brand strategists** to collaborate.
 
-- 👯 I’m looking to collaborate on [Project Name: Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)
+- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)** through real-world projects  
+  ⮕ Next focus: **Data Structures & Algorithms in Java**
 
-- 🤝 I’m looking for help with **Project Name: IndiSure – Need help with blockchain integration And Product Designing**
+- 📚 I’m building [**Backend Concepts**](https://github.com/TSR0705/BACKEND-CONCEPTS) – a Node.js backend learning series  
+  ⮕ Includes role-based auth, mailing, file uploads, error handling, and more (10+ modules)
 
-- 💬 **Ask me about:**  Html , Css , Javascript , React , Tailwind , GSAP & Advanced UI animations, Firebase 
+- 👯 I’m open to collaborate on any **AI-powered**, **blockchain-driven**, or **socially impactful** product ideas  
+  ⮕ Especially around **legaltech**, **pharmatech**, and **edtech** domains.
 
-- ⚡ **Motto:** "Serving the nation with every line of code."
-  
-- ⚡ Fun fact **I prototype faster than I sleep — and I treat AI like my co-founder. 😄**
+- 💬 Ask me about:  
+  `HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB ` · `Postman Testing` · `Socket.IO` · `NPM` · `Rest API`
+
+- 🎖️ Certified & Skilled In:  
+  `MongoDB for Node.js Developers` · `AWS Cloud Architecting` · `IBM Cloud Essentials`  
+  `Infosys AI & GenAI Courses` · `Google Cloud: Gemini AI Tools` · `Microsoft GenAI Concepts`
+
+- ⚡ **Motto:** _"Serving the nation with every line of code."_
+
+- 🤖 **Fun Fact:** I treat AI like my co-founder and GitHub like my diary. ** 😄
+
 ---
 
 ## 🚀 Featured Projects
