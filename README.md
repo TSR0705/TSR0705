@@ -96,7 +96,7 @@
 <details>
 <summary><strong>Portfolio</strong> – Personal Brand & Interactive Showcase</summary>
 
-- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY-PORTFOLIO)  
+- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY_PORTFOLIO)  
 - 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion | Modular UI  
 - ⭐ **Highlights:** Scalable design, Animated hero, Modern UI trends, Responsive, Easily extensible
 </details>
@@ -127,7 +127,7 @@
 | 🤝 **Fullstack Engineer (R&D)** | IndiSure – AI + Blockchain powered drug counterfeit detection                                                   | Jan 2025 – Present  |
 | 🎯 **Frontend Engineer**        | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – 🏅 Top 10 / 3000+ teams @ CodeNex DayZero                  | Mar 2025 – Present  |
 | ✨ **UI/UX Designer & Dev**     | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic multiplayer quiz platform                        | Apr 2025 – May 2025 |
-| 🌐 **Portfolio Architect**      | [Portfolio](https://github.com/TSR0705/MY-PORTFOLIO) – Interactive Scalable personal brand site                  | Jun 2025 – Present  |
+| 🌐 **Portfolio Architect**      | [Portfolio](https://github.com/TSR0705/MY_PORTFOLIO) – Interactive Scalable personal brand site                  | Jun 2025 – Present  |
 | 🧪 **Backend Educator & Creator** | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Full-stack Node.js learning series with 10 real-world backend modules | Jun 2025 – Jul 2025 |
 | 🤖 **Agentic AI Researcher**    | [Agentic AI Project](https://github.com/TSR0705/AGENTIC-AI-PROJECT) – Experimental real-time conversational AI agent system | 3 Jul 2025 – Present  |
 | ♟️ **Realtime Game Dev**        | [Chess Game](https://github.com/TSR0705/CHESS-GAME) – Multiplayer chess app using Socket.IO, EJS, and chess.js   | 28 Jun 2025 – Jul 2025 |
@@ -149,15 +149,15 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff">
 <img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff">
-<!-- <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">  -->
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  -->
 <!-- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  -->
 <!-- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> -->
