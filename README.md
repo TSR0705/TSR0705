@@ -211,8 +211,10 @@
 
 
 ---
+
 ## 📌 Contribution Activity (Past 12 Months)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
+
 ---
 
 ## 📊 GitHub Stats & Usage Insights
