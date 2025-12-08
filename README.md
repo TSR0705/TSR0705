@@ -52,94 +52,96 @@
 
 - 🤖 **Fun Fact:** I treat architecture diagrams like recipes and GitHub as my execution journal. 😄
 
-
+---
 
 ## 🚀 Featured Projects
 
 <details>
+<summary><strong>Webloom</strong> – Distributed Web Monitoring Platform</summary>
+
+- 🔗 **Repo:** [WEBLOOM](https://github.com/TSR0705/WEBLOOM)
+- 🛠 **Tech:** Node.js | Docker | RabbitMQ | MongoDB | Next.js | Railway
+- ⭐ **Highlights:** Distributed workers that scrape pages autonomously, detect UI/price/content changes, version comparison UI, dashboard for real-time job tracking.
+</details>
+
+<details>
+<summary><strong>FileX</strong> – Insider File Leak Detection System</summary>
+
+- 🔗 **Repo:** [FILEX](https://github.com/TSR0705/FILE-X)  
+- 🛠 **Tech:** Java | JavaFX | SQLite | SHA-256 fingerprinting
+- ⭐ **Highlights:** Detects unauthorized file tampering, persistent audit logging, alerts dashboard, awarded 3rd Prize at SRM Java Expo 2025.
+</details>
+
+<details>
+<summary><strong>Smart Tab Organiser</strong> – AI-Based Browser Tab Clustering</summary>
+
+- 🔗 **Repo:** [SMART-TAB-ORGANISER](https://github.com/TSR0705/SMART-TAB-ORGANISER)
+- 🛠 **Tech:** Python | FastAPI | Docker | Semantic Embeddings | Chrome Extension
+- ⭐ **Highlights:** Clusters browser tabs using embeddings-based similarity, serves clustering through REST API, auto-organizes tab groups.
+</details>
+
+<!-- <details>
 <summary><strong>Agentic AI Project</strong> – Real-Time Conversational Agent System</summary>
 
-- 🔗 **Repo:** [AGENTIC-AI-PROJECT](https://github.com/TSR0705/AGENTIC-AI-PROJECT)  
-- 🛠 **Tech:** Node.js | Express | Whisper | OpenAI API | Socket.IO *(expanding…)*  
-- ⭐ **Highlights:** Passive agentic AI listener that responds to human & AI messages on trigger (e.g., `@what`)
+- 🔗 **Repo:** [AGENTIC-AI-PROJECT](https://github.com/TSR0705/AGENTIC-AI-PROJECT)
+- 🛠 **Tech:** Node.js | Express | Whisper | Generative AI APIs | Socket.IO
+- ⭐ **Highlights:** Passive listener agent that joins conversations and responds contextually when triggered.
+</details> -->
+
+<details>
+<summary><strong>Backend Concepts</strong> – End-to-End Backend Learning Series</summary>
+
+- 🔗 **Repo:** [BACKEND-CONCEPTS](https://github.com/TSR0705/BACKEND-CONCEPTS)
+- 🛠 **Tech:** Node.js | Express.js | MongoDB | JWT | Nodemailer
+- ⭐ **Highlights:** 10+ backend modules including OTP auth system, mailing pipeline, file uploads, structured API design.
 </details>
 
 <details>
-<summary><strong>Backend Concepts</strong> – Node.js Backend Learning Series</summary>
+<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Courtroom</summary>
 
-- 🔗 **Repo:** [BACKEND-CONCEPTS](https://github.com/TSR0705/BACKEND-CONCEPTS)  
-- 🛠 **Tech:** Node.js | Express.js | MongoDB | JWT | Multer | Nodemailer  
-- ⭐ **Highlights:**  
-  • 10+ real-world backend modules: REST API design, file uploads, mailing, error handling, etc.  
-  • 💼 Includes advanced **Role-Based Authentication System** with:
-    - Role-protected routes (Admin/User)
-    - JWT token handling & middleware
-    - Full **OTP-based SignUp/Forgot/Reset Password** flow
+- 🔗 **Repo:** [INNOVERSE-SAMVIDHAN-SETU](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU)
+- 🛠 **Tech:** React.js | TailwindCSS | Jitsi | Gemini API | Material UI
+- ⭐ **Highlights:** AI-assisted case review, mock court hearings, role-based access for litigants, judges, and lawyers.
 </details>
 
-<details>
-<summary><strong>Samvidhan Setu</strong> – AI-Powered Legal Research & Virtual Courts</summary>
+<!-- <details>
+<summary><strong>Chess Game</strong> – Real-Time Multiplayer Chess</summary>
 
-- 🔗 **Repo:** [INNOVERSE-SAMVIDHAN-SETU](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU)  
-- 🛠 **Tech:** React.js | TailwindCSS | Framer Motion | Lottie | Gemini API | Jitsi | Material UI  
-- ⭐ **Highlights:** AI-driven case summarization, real-time courtroom UI, predictive outcome engine
-</details>
+- 🔗 **Repo:** [CHESS-GAME](https://github.com/TSR0705/CHESS-GAME)
+- 🛠 **Tech:** Node.js | Socket.IO | Chess.js | EJS | WebSockets
+- ⭐ **Highlights:** Live gameplay, drag-drop UI, auto board switching, spectators mode, real-time match state sync.
+</details> -->
 
-<details>
-<summary><strong>Chess Game</strong> – Realtime Multiplayer Chess in the Browser</summary>
+<!-- <details>
+<summary><strong>Portfolio</strong> – Personal Brand Showcase</summary>
 
-- 🔗 **Repo:** [CHESS-GAME](https://github.com/TSR0705/CHESS-GAME)  
-- 🛠 **Tech:** Node.js | Express | Socket.IO | Chess.js | EJS | Vanilla JS | Custom CSS  
-- ⭐ **Highlights:** Realtime gameplay, drag-and-drop UI, board flipping, spectators, lobby system
-</details>
+- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY_PORTFOLIO)
+- 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion
+- ⭐ **Highlights:** Production-ready design, animations, dynamic sections, scalable component architecture.
+</details> -->
 
-<details>
-<summary><strong>QuizArena</strong> – Futuristic AI Quiz Platform</summary>
-
-- 🔗 **Repo:** [Quiz-Arena](https://github.com/TSR0705/Quiz-Arena)  
-- 🛠 **Tech:** React.js | Vite | TailwindCSS | Framer Motion | GSAP | React Router | Three.js | @react-three/fiber  
-- ⭐ **Highlights:** 3D-themed animated quiz interface, subject-wise quiz filtering, real-time scoring, interactive UI
-</details>
-
-<details>
-<summary><strong>Portfolio</strong> – Personal Brand & Interactive Showcase</summary>
-
-- 🔗 **Repo:** [MY-PORTFOLIO](https://github.com/TSR0705/MY_PORTFOLIO)  
-- 🛠 **Tech:** Next.js | React.js | TailwindCSS | Framer Motion | Modular UI  
-- ⭐ **Highlights:** Scalable design, Animated hero, Modern UI trends, Responsive, Easily extensible
-</details>
-
-<details>
-<summary><strong>MargSetu</strong> – Smart Pitching & Investor Matchmaking</summary>
-
-- 🔗 **Repo:** [Marg-Setu-Frontend-](https://github.com/TSR0705/Marg-Setu-Frontend-)  
-- 🛠 **Tech:** Vite | React.js | TailwindCSS | Framer Motion | Jitsi | Chart.js | Material UI  
-- ⭐ **Highlights:** Smart profiles, real-time pitching UX, investor matching, live presentations
-</details>
-
-<details>
+<!-- <details>
 <summary><strong>IndiSure</strong> – AI-Driven Counterfeit Drug Detection</summary>
 
 - 🔗 **Repo:** *(Coming soon…)*  
 - 🛠 **Tech:** *(Coming soon…)*  
 - ⭐ **Highlights:** AI for drug validation, blockchain for supply chain integrity, anti-counterfeit pipeline
-</details>
+</details> -->
 
 ---
 
 ## 📄 Experience Snapshot
 
-| Role                            | Organization / Project                                                                                          | Duration            |
-|---------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------|
-| 🧠 **Founder & Lead Dev**        | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – 🏆 GitHub Hackathon Winner (Best Freshers Team) | Feb 2025 – Present  |
-| 🤝 **Fullstack Engineer (R&D)** | IndiSure – AI + Blockchain powered drug counterfeit detection                                                   | Jan 2025 – Present  |
-| 🎯 **Frontend Engineer**        | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – 🏅 Top 10 / 3000+ teams @ CodeNex DayZero                  | Mar 2025 – Present  |
-| ✨ **UI/UX Designer & Dev**     | [QuizArena](https://github.com/TSR0705/Quiz-Arena) – Futuristic multiplayer quiz platform                        | Apr 2025 – May 2025 |
-| 🌐 **Portfolio Architect**      | [Portfolio](https://github.com/TSR0705/MY_PORTFOLIO) – Interactive Scalable personal brand site                  | Jun 2025 – Present  |
-| 🧪 **Backend Educator & Creator** | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Full-stack Node.js learning series with 10 real-world backend modules | Jun 2025 – Jul 2025 |
-| 🤖 **Agentic AI Researcher**    | [Agentic AI Project](https://github.com/TSR0705/AGENTIC-AI-PROJECT) – Experimental real-time conversational AI agent system | 3 Jul 2025 – Present  |
-| ♟️ **Realtime Game Dev**        | [Chess Game](https://github.com/TSR0705/CHESS-GAME) – Multiplayer chess app using Socket.IO, EJS, and chess.js   | 28 Jun 2025 – Jul 2025 |
-| 🎓 **B.Tech CSE (9.26+ CGPA)**  | SRMIST Kattankulathur – Specialization: Cloud Computing                                                         | 2024 – 2028         |
+| Role                               | Organization / Project                                                                                                                      | Duration            |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| 🧠 **Founder & Lead Developer**    | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) – Winner (Best Freshers Team), GitHub OSSome Hacks 2.0               | Feb 2025 – Present  |
+| 🛠 **Founder & Lead Developer**    | [Webloom](https://github.com/TSR0705/WEBLOOM) – Distributed web monitoring platform (Phase-4 worker system completed)                       | Jul 2025 – Present  |
+| 🛡 **Lead Engineer**               | [FileX](https://github.com/TSR0705/FILE-X) – 3rd Place at SRM Java Expo 2025 (department-wide Java project competition)                     | Aug 2025 – Present  |
+| 🔍 **Research & Engineering**      | [Smart Tab Organiser](https://github.com/TSR0705/SMART-TAB-ORGANISER) – AI-based tab clustering engine shortlisted for internal showcases   | Oct 2025 – Present  |
+| 🎯 **Frontend Developer**          | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) – Top 10 Finalist among 3000+ teams at CodeNex DayZero                           | Mar 2025 – May 2025 |
+| ⚡ **Platform Engineer**           | [WHO-I-AM](https://github.com/TSR0705/WHO-I-AM) – Achieved 100/100 Lighthouse score (Performance, Accessibility, Best Practices, SEO)       | Nov 2025 – Dec 2025 |
+| 🧪 **Educator & Content Creator**  | [Backend Concepts](https://github.com/TSR0705/BACKEND-CONCEPTS) – Built 10+ backend modules (auth, mailing, storage, errors, production APIs) | Jun 2025 – Jul 2025 |
+| 🎓 **Undergraduate Engineer**      | SRMIST – B.Tech CSE (Cloud Computing Specialization) – CGPA: 9.26 / 10                                                                      | 2024 – 2028         |
 
 ---
 
