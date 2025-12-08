@@ -19,32 +19,40 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on [**Samvidhan Setu – An AI-Powered Legal Research & Virtual Court Platform**](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU.git)  
-  ⮕ Built a complete **OTP-verified, role-based authentication system** with JWT and role-based routes this summer.
+- 🔭 I’m currently working on [**Webloom – A Distributed Web Monitoring Platform**](https://github.com/TSR0705/WEBLOOM)  
+  ⮕ Completed Phase-4 featuring containerized workers, RabbitMQ pipelines, automated scraping, and structured storage.
 
-- 🧠 I’m researching & building [**IndiSure**](https://github.com/TSR0705) – AI + Blockchain based counterfeit drug detection solution.  
-  ⮕ Looking for **blockchain experts** and **product designers/brand strategists** to collaborate.
+- 🧠 Advancing [**FileX Phase-2 – Secure File-Change Detection System**](https://github.com/TSR0705/FILE-X)  
+  ⮕ Adding dashboard visualization, persistent logs, multi-user tracking, and event-based alerting.
 
-- 🌱 I’m currently learning **Backend Development (Node.js, Express, MongoDB)** through real-world projects  
-  ⮕ Next focus: **Data Structures & Algorithms in Java**
+- 🌱 I’m currently deepening backend & cloud engineering (Node.js, Express, MongoDB, Docker, RabbitMQ) through real-world deployments  
+  ⮕ Next focus: scalable Kubernetes execution & CI workflows for distributed agents.
 
-- 📚 I’m building [**Backend Concepts**](https://github.com/TSR0705/BACKEND-CONCEPTS) – a Node.js backend learning series  
-  ⮕ Includes role-based auth, mailing, file uploads, error handling, and more (10+ modules)
+- 📚 Previously built [**Backend Concepts**](https://github.com/TSR0705/BACKEND-CONCEPTS) – a backend learning series  
+  ⮕ Includes role-based auth, mailing workflows, file handling, modular service design & middleware architecture.
 
-- 👯 I’m open to collaborate on any **AI-powered**, **blockchain-driven**, or **socially impactful** product ideas  
-  ⮕ Especially around **legaltech**, **pharmatech**, and **edtech** domains.
+- 👯 I’m open to collaborate on backend-heavy, distributed or cloud-driven projects  
+  ⮕ Especially in monitoring pipelines, scheduling systems, platform automation & multi-tenant applications.
 
 - 💬 Ask me about:  
-  `HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB ` · `Postman Testing` · `Socket.IO` · `NPM` · `Rest API`
+  `HTML` · `CSS` · `JavaScript` · `React` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB`  
+  `Docker` · `RabbitMQ` · `Postman` · `REST APIs` · `Authentication Systems`
 
 - 🎖️ Certified & Skilled In:  
-  `MongoDB for Node.js Developers` · `AWS Cloud Architecting` · `IBM Cloud Essentials`  
-  `Infosys AI & GenAI Courses` · `Google Cloud: Gemini AI Tools` · `Microsoft GenAI Concepts`
+  [`AWS Cloud Architecting`](https://www.credly.com/badges/7d0ca0e5-e325-4292-9eb1-b85199879a35/linked_in_profile) · 
+  [`MongoDB Node.js Developer Track`](https://learn.mongodb.com/c/sa5EerMMTWu5ca3ZZJmKJA) · 
+  [`IBM Cloud Essentials`](https://courses.cognitiveclass.ai/certificates/2a38471ed1ca449bb6e67f3a6360253e)  
+  [`Google Cloud – Application Developer`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/16816233) · 
+  [`Cloud Architecture`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587497) · 
+  [`Security Engineer`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587765) · 
+  [`SDLC & Quality`](https://www.skills.google/public_profiles/65d19b01-96a4-46db-85db-4843600c62f2/badges/15587835)
 
-- ⚡ **Motto:** _"Serving the nation with every line of code."_
 
-- 🤖 **Fun Fact:** I treat AI like my co-founder and **GitHub like my diary.** 😄
----
+- ⚡ **Motto:** _"Build systems that scale today and stay relevant tomorrow."_  
+
+- 🤖 **Fun Fact:** I treat architecture diagrams like recipes and GitHub as my execution journal. 😄
+
+
 
 ## 🚀 Featured Projects
 
