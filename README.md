@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/tanmay-singh-28395b345/"><img src="https://img.shields.io/badge/LinkedIn-Tanmay%20Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/tanmaysinghra18"><img src="https://img.shields.io/badge/Twitter-@tanmaysinghra18-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="mailto:tanmaysingh8246@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaysingh8246@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://buymeacoffee.com/tanmaysingh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff69b4?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
+  <!-- <a href="https://buymeacoffee.com/tanmaysingh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff69b4?style=for-the-badge&logo=buymeacoffee" alt="Buy Me a Coffee" /></a> -->
 </p>
 
 ---
@@ -145,60 +145,94 @@
 
 ---
 
+
 # 🌐 Skills & Tools
 
-## My Skills
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff">
-<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff">
-<!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  -->
-<!-- <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> -->
-<!-- <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
+### 🚀 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=fff"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B"/>
+<img src="https://img.shields.io/badge/JWT-black"/>
+<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-252F3E?logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white"/>
+</p>
+
+</td>
+<td width="25%" valign="top">
+
+### 🧰 Tools & Languages
+<p>
+<img src="https://img.shields.io/badge/Postman-FC6C37?logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
+## 📌 Contribution Activity (Past 12 Months)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
+---
 
-## 📊 GitHub Stats And Languages Used
+## 📊 GitHub Stats & Usage Insights
 
+<div align="center">
 
+  <!-- STREAK & CONTRIBUTION TRACK -->
+  <img src="https://streak-stats.demolab.com?user=TSR0705&theme=react&hide_border=true" height="170"/>
 
+  <!-- OVERALL METRICS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TSR0705&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsr0705&theme=dark&show_icons=true&locale=en" alt="TSR0705" />
-  
-  <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=TSR0705&theme=dark" alt="Mark streak" />
-  
- 
 </div>
 
+<br>
 
-
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsr0705&layout=compact&theme=dark)
-
-
+<!-- LANGUAGE CARD -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSR0705&layout=compact&theme=react&hide_border=true&langs_count=10" height="190"/>
+</div>
 
 ---
 
