@@ -174,20 +174,25 @@
 <img src="https://img.shields.io/badge/REST%20APIs-02569B"/>
 <img src="https://img.shields.io/badge/JWT-black"/>
 <img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
 </p>
 
 </td>
 <td width="25%" valign="top">
 
-### 🗄️ Databases & Cloud
+### 🗄️ DevOps & Cloud
 <p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20IAM-252F3E?logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
 </p>
 
 </td>
