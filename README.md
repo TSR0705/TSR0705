@@ -130,7 +130,7 @@ Resilient database recovery framework focused on anomaly detection and automated
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/System_Design-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Workflows-111111?style=flat-square" />
+
 </p>
 
 <details>
