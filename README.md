@@ -299,17 +299,7 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 </table>
 
 
-
-
-
-
-
-
-
-
-
-
-
+---
 
 # 🌐 Skills & Tools
 
@@ -421,6 +411,13 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 </tr>
 </table>
 
+
+---
+## Internship Experience
+
+| Role | Organization / Work | Timeline |
+|---|---|---|
+| Backend Engineering Intern | **MedGency (Health-Tech Startup)** — Engineered a multi-tenant authentication and RBAC system with a 4-tier role hierarchy, enforcing strict organization isolation and invite-only access workflows.<br><br>Implemented OTP-based authentication, JWT session handling with Redis-backed revocation, secure magic-link onboarding, rate limiting, and audit logging focused on reliability and access control. | `Dec 2025 — Jan 2026` |
 
 ---
 
