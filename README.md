@@ -300,8 +300,6 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Framer_Motion-EF477F?logo=framer&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=fff"/>
 </p>
 
 </td>
@@ -312,11 +310,8 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B"/>
-<img src="https://img.shields.io/badge/JWT-black"/>
-<img src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white"/>
 </p>
 
 </td>
