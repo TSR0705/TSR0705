@@ -76,21 +76,6 @@ Full Stack Applications    → Modern web platforms with clean UX
 System Design              → Reliability, observability, performance
 ```
 ---
-
-## Engineering Philosophy
-
-I enjoy building systems that combine software engineering, cloud infrastructure, automation, and intelligent workflows into practical, production-oriented solutions.
-
-My primary interest lies in:
-- scalable backend systems
-- distributed architectures
-- realtime infrastructure
-- AI-assisted automation
-- resilient system design
-
-I value engineering clarity over unnecessary complexity and prefer systems that are observable, maintainable, and designed with long-term scalability in mind.
-
----
 ## Featured Projects
 
 <table>
