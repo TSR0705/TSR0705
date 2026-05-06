@@ -116,7 +116,7 @@ Distributed web monitoring and intelligent change-detection platform designed fo
 
 <h3>
 <a href="https://github.com/TSR0705/DBMS_PROJECT_SELF-HEALING-DATABASE">
-AI-Powered DBMS Self-Healing Engine
+Self-Healing Database
 </a>
 </h3>
 
@@ -126,7 +126,9 @@ Resilient database recovery framework focused on anomaly detection and automated
 
 <p>
 <img src="https://img.shields.io/badge/SQL-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/System_Design-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/AI_Workflows-111111?style=flat-square" />
 </p>
@@ -196,7 +198,7 @@ AI-assisted legal research and dispute workflow platform focused on accessibilit
 <img src="https://img.shields.io/badge/React-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/TailwindCSS-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_APIs-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_APIs-111111?style=flat-square" />
 </p>
 
 <details>
