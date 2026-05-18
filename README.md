@@ -1,6 +1,3 @@
-
-![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif)
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=60&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+GitHub!;Tanmay+Singh+%7C+Cloud+%26+Systems+Engineer;Building+Scalable+Platforms+%26+AI+Workflows;Backend+Architecture+%7C+DevOps+%7C+Distributed+Systems;Explore+my+projects+and+drop+a+star+%E2%AD%90" 
