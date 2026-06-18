@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-9.37-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/CGPA-9.54-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Samsung%20PRISM-Selected-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/OSSome%20Hacks-Best%20Freshers%20Project-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Java%20Expo-3rd%20Place-111111?style=flat-square" />
