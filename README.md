@@ -413,7 +413,7 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 | Frontend Developer | [MargSetu](https://github.com/TSR0705/Marg-Setu-Frontend-) — Frontend engineering for a Top 10 finalist project at CodeNex DayZero. | `Mar 2025 — May 2025` |
 | Founder & Lead Developer | [Samvidhan Setu](https://github.com/TSR0705/INNOVERSE-SAMVIDHAN-SETU) — AI-assisted legal research and dispute workflow platform.<br>**Recognition:** Winner — Best Freshers Team @ GitHub OSSome Hacks 2.0 | `Feb 2025 — Present` |
 | Platform Engineer | [WHO-I-AM](https://github.com/TSR0705/WHO-I-AM) — High-performance personal platform optimized for accessibility, responsiveness, and SEO.<br>**Achievement:** Perfect 100/100 Lighthouse Score | `Nov 2024 — Dec 2024` |
-| Undergraduate Engineer | SRM Institute of Science & Technology (SRMIST) — B.Tech CSE (Cloud Computing) • CGPA: 9.37 / 10 | `2024 — 2028` |
+| Undergraduate Engineer | SRM Institute of Science & Technology (SRMIST) — B.Tech CSE (Cloud Computing) • CGPA: 9.54 / 10 | `2024 — 2028` |
 
 ---
 
