@@ -72,6 +72,8 @@ Backend Engineering        → APIs, system architecture, realtime systems
 Full Stack Applications    → Modern web platforms with clean UX
 System Design              → Reliability, observability, performance
 ```
+
+<!--
 ---
 ## Featured Projects
 
@@ -282,8 +284,9 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 </tr>
 </table>
 
-
 ---
+-->
+
 
 # 🌐 Skills & Tools
 
@@ -398,6 +401,8 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 |---|---|---|
 | Backend Engineering Intern | **MedGency (Health-Tech Startup)** — Engineered a multi-tenant authentication and RBAC system with a 4-tier role hierarchy, enforcing strict organization isolation and invite-only access workflows.<br><br>Implemented OTP-based authentication, JWT session handling with Redis-backed revocation, secure magic-link onboarding, rate limiting, and audit logging focused on reliability and access control. | `Dec 2025 — Jan 2026` |
 
+
+<!--
 ---
 
 ## Experience Snapshot
@@ -416,7 +421,7 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 | Undergraduate Engineer | SRM Institute of Science & Technology (SRMIST) — B.Tech CSE (Cloud Computing) • CGPA: 9.54 / 10 | `2024 — 2028` |
 
 ---
-
+-->
 
 ## 📌 Contribution Activity (Past 12 Months)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TSR0705&theme=react-dark">
