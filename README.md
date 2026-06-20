@@ -22,13 +22,21 @@
   <a href="https://www.linkedin.com/in/tanmay-singh-28395b345/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  
+
   <a href="https://drive.google.com/file/d/1HvKWyPbdGN25lixLo76BodMro1WVf9Q0/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-111111?style=flat-square&logo=googledrive&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/tanmay_singh_rajput/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/tanmaysingh8246">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/tanmaysisdln?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
   </a>
 
   <a href="https://devfolio.co/@tanmay8246">
@@ -39,7 +47,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-9.54-111111?style=flat-square" />
   <img src="https://img.shields.io/badge/Samsung%20PRISM-Selected-111111?style=flat-square" />
