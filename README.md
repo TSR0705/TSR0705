@@ -336,7 +336,6 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 <img src="https://img.shields.io/badge/GitHub%20Actions-000?logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white"/>
 </p>
 
 </td>
@@ -348,8 +347,6 @@ AI-powered Chrome extension designed to reduce tab clutter through intelligent s
 <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
 </p>
